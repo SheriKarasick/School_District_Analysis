@@ -21,7 +21,7 @@ In this analysis, we examine the analytical consequences of removing a group of 
 ###### District Dashboard with All Students
 <img src="/district_summary1.png" width="648" height="69" title="DistrictDashboard">
 ###### District Dashboard Alternate Version
-![Summary District Data Frame After Removing 9th Grade Students](/district_summary2.png)
+<img src="/district_summary2.png" width="648" height="69" title="DistrictDashboard">
 
 ### Overall District School Summary
 Results summary for the 15 schools contained in the PyCitySchools District.
@@ -29,37 +29,42 @@ Results summary for the 15 schools contained in the PyCitySchools District.
 ###### Summary Data by School
 <img src="/school_summary1.png" width="648" title="School Dashboard">
 ###### Summary Data by School (Alternate)
-![Summary School Data Frame After Removing 9th Grade Students](/school_summary2.png)
+<img src="/school_summary2.png" width="648" title="School Dashboard">
 
 ## Top 5 schools (based on overall pass rate)
 
-![Top Five Schools](/Top_Schools_1.png)
-
-![Top Five Schools After Removing 9th Grade Students](/top_schools2.png)
+###### Top Five Schools in District
+<img src="/school_top1.png" width="648" title="School Dashboard">
+###### Top Five Schools in District (Alternative)
+<img src="/school_top2.png" width="648" title="School Dashboard">
 
 ## Bottom 5 schools (based on overall pass rate)
-![Bottom Five Schools](/Bottom_Schools1.png)
-
-![Bottom Five Schools After Removing 9th Grade Students](/bottom_schools2.png)
+###### Bottom Five Schools in District
+<img src="/school_bottom1.png" width="648" title="School Dashboard">
+###### Bottom Five Schools in District (Alternative)
+<img src="/school_bottom2.png" width="648" title="School Dashboard">
 
 ## School Performance Based on Grade
 
 NEED
 
 ## School Performance Based on Budget per Student
-![School Performance Based on Budget](/school_spend1.png)
-
-![School Performance Based on Budget After Removing 9th Grade Students](/school_spend2.png)
+###### Performance by Per Student Budget
+<img src="/school_spend1.png" width="648" title="School Dashboard">
+###### Performance by Per Student Budget (Alternative)
+<img src="/school_spend2.png" width="648" title="School Dashboard">
 
 ## School performace based on size
-![School Performance Based on School Size](/school_size1.png)
-
-![School Performance Based on School Size After Removing 9th Grade Students](/ScoresbySchoolSize2.png)
+###### Performance by School Size
+<img src="/school_size1.png" width="648" title="School Dashboard">
+###### Performance by School Size (Alternative)
+<img src="/school_size2.png" width="648" title="School Dashboard">
 
 ## School performance based on type of school
-![School Performance Based on School Type](/school_type1.png)
-
-![School Performance Based on School Type After Removing 9th Grade Students](/school_type2.png)
+###### Performance by School Type
+<img src="/school_type1.png" width="648" title="School Dashboard">
+###### Performance by School Type (Alternative)
+<img src="/school_type2.png" width="648" title="School Dashboard">
 
 ## Strengths and Weaknesses of Analysis for Making Strategic Decisions
 
@@ -69,9 +74,9 @@ NEED
 
 
 ## Resources used
-PyCitySchools_Challenge.ipynb
-schools_complete.csv
-students_complete.csv
+* Jupyter Notebook File: PyCitySchools_Challenge.ipynb
+* Source File with School Data: schools_complete.csv
+* Source File with Student Data: students_complete.csv
 
 
 First Header | Second Header
