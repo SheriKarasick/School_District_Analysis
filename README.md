@@ -13,13 +13,17 @@ By Sharon Karasick
   The most notable findings are highlighted in this table:
 
 Category | Reading Scores | Math Scores
------------- | -------------
-For Thomas High School | Decreased by 26% | Decreased by 27%,
-Overall Averages | 
+------------ | ------------- | -------------
+For Thomas High School | Decreased by 26% | Decreased by 27%
+------------ | ------------- | -------------
+Overall Averages | answer | answer
+------------ | ------------- | -------------
 School Size | Medium Category Decreased Significantly | Medium Category Decreased Significantly
+------------ | ------------- | -------------
 School Type | District Schools Decreased Significantly | District Schools Decreased Significantly
+------------ | ------------- | -------------
 School by Cost per Student | 3rd Bin Decreased Significantly | 3rd Bin Decreased Significantly
-, 
+
 
 
 ### Key District Metrics, presented in table format
