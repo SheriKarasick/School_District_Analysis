@@ -15,19 +15,19 @@ While this data provides a powerful analysis examining results by school size, b
 ### Key District Metrics, presented in table format
 
 In this analysis, we examine the analytical consequences of removing a group of 461 freshman students from Thomas High School.  Following concerns that some of the data is suspect, and the extent of the data issue is unknown,  the district would like to know how much exclusion of that data set from the District analysis will influence findings and decisionmaking. Data dashboards with reading and math data removed for 461 students will be noted as "Alternate".
+* District data remained largely unchanged.
+* Percentage of students passing math and the overall students passing decreased by 1% point each. 
 
 ###### District Dashboard with All Students
 <img src="/district_summary1.png" width="648" height="69" title="DistrictDashboard">
-
-###### Alternate District Dashboard 
+###### District Dashboard Alternate Version
 ![Summary District Data Frame After Removing 9th Grade Students](/district_summary2.png)
 
 ### Overall District School Summary
-Results summary for all 16 schools contained in the District.
+Results summary for the 15 schools contained in the PyCitySchools District.
 
 ###### Summary Data by School
-<img src="/school_summary1.png" width="648" height="69" title="School Dashboard">
-
+<img src="/school_summary1.png" width="648" title="School Dashboard">
 ###### Summary Data by School (Alternate)
 ![Summary School Data Frame After Removing 9th Grade Students](/school_summary2.png)
 
