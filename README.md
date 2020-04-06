@@ -11,9 +11,13 @@ While this data provides a powerful analysis examining results by school size, b
 
 ## Key District Metrics, presented in table format
 
-![Summary District Data Frame](/District Summary 2.png)
+![Summary District Data Frame](/district_summary1.png)
 
-![Summary District Data Frame After Removing 9th Grade Students](/summary district data frame.png)
+![Summary District Data Frame After Removing 9th Grade Students](/district_summary2.png)
+
+![Summary School Data Frame](/school_summary1.png)
+
+![Summary School Data Frame After Removing 9th Grade Students](/school_summary2.png)
 
 ## Top 5 schools (based on overall pass rate)
 
@@ -31,19 +35,19 @@ While this data provides a powerful analysis examining results by school size, b
 NEED
 
 ## School Performance Based on Budget per Student
-![School Performance Based on Budget](/SchoolsbySpending1.png)
+![School Performance Based on Budget](/school_spend1.png)
 
-![School Performance Based on Budget After Removing 9th Grade Students](/ScoresbySpending2.png)
+![School Performance Based on Budget After Removing 9th Grade Students](/school_spend2.png)
 
 ## School performace based on size
-![School Performance Based on School Size](/SchoolsbySize1.png)
+![School Performance Based on School Size](/school_size1.png)
 
 ![School Performance Based on School Size After Removing 9th Grade Students](/ScoresbySchoolSize2.png)
 
 ## School performance based on type of school
-![School Performance Based on School Type](/GradesbySchoolType1.png)
+![School Performance Based on School Type](/school_type1.png)
 
-![School Performance Based on School Type After Removing 9th Grade Students](/ScoresbyType2.png)
+![School Performance Based on School Type After Removing 9th Grade Students](/school_type2.png)
 
 ## Strengths and Weaknesses of Analysis for Making Strategic Decisions
 
