@@ -13,18 +13,11 @@ By Sharon Karasick
   The most notable findings are highlighted in this table:
 
 Category | Reading Scores | Math Scores
-
 For Thomas High School | Decreased by 26% | Decreased by 27%
-
 Overall Averages | answer | answer
-
 School Size | Medium Category Decreased Significantly | Medium Category Decreased Significantly
-
 School Type | District Schools Decreased Significantly | District Schools Decreased Significantly
-
 School by Cost per Student | 3rd Bin Decreased Significantly | 3rd Bin Decreased Significantly
-
-
 
 ### Key District Metrics, presented in table format
 
@@ -34,29 +27,36 @@ School by Cost per Student | 3rd Bin Decreased Significantly | 3rd Bin Decreased
 
 ###### District Dashboard with All Students
 <img src="/district_summary1.png" width="725" height="69" title="DistrictDashboard">
+
 ###### District Dashboard Alternate 
 <img src="/district_summary2.png" width="725" height="69" title="DistrictDashboard">
 
 ### Overall District School Summary
 Results summary for the 15 schools contained in the PyCitySchools District.
 * No other school would be influenced by this data change except Thomas High School.
-* Percentage of students passing math and the overall students passing decreased by 1% point each. 
+* Thomas High School experienced a notable decrease in reading and math scores with means decreasing by 27% and 26% respectively and the overall pass rate for both exams combined decreasing by 26%.
 
 ###### Summary Data by School
 <img src="/school_summary1.png" width="725" title="School Dashboard">
+
 ###### Summary Data by School (Alternate)
 <img src="/school_summary2.png" width="725" title="School Dashboard">
 
 ## Top 5 schools (based on overall pass rate)
+The change influenced the ranking of schools in the District.  Thomas High School fell off the list of top five schools.
 
 ###### Top Five Schools in District
 <img src="/school_top1.png" width="725" title="School Dashboard">
+
 ###### Top Five Schools in District (Alternative)
 <img src="/school_top2.png" width="725" title="School Dashboard">
 
 ## Bottom 5 schools (based on overall pass rate)
+The change did not influence the content of the list of 
+
 ###### Bottom Five Schools in District
 <img src="/school_bottom1.png" width="725" title="School Dashboard">
+
 ###### Bottom Five Schools in District (Alternative)
 <img src="/school_bottom2.png" width="725" title="School Dashboard">
 
@@ -67,18 +67,21 @@ NEED
 ## School Performance Based on Budget per Student
 ###### Performance by Per Student Budget
 <img src="/school_spend1.png" width="725" title="School Dashboard">
+
 ###### Performance by Per Student Budget (Alternative)
 <img src="/school_spend2.png" width="725" title="School Dashboard">
 
 ## School performace based on size
 ###### Performance by School Size
 <img src="/school_size1.png" width="725" title="School Dashboard">
+
 ###### Performance by School Size (Alternative)
 <img src="/school_size2.png" width="725" title="School Dashboard">
 
 ## School performance based on type of school
 ###### Performance by School Type
 <img src="/school_type1.png" width="725" title="School Dashboard">
+
 ###### Performance by School Type (Alternative)
 <img src="/school_type2.png" width="725" title="School Dashboard">
 
