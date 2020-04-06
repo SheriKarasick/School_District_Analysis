@@ -2,7 +2,7 @@
 Prepared for PyCitySchools School District
 By Sharon Karasick
 <p align="float: right">
-  <img src="/PyCityPlay.png" width="256" title="Github Logo">
+  <img src="/PyCityPlay.png" width="125" title="Github Logo">
 </p>
 ## Key Metric Summary
 This analysis examines the strengths of the PyCitySchools District and makes strategic recommendations based on key performance data. With the No Child Left Behind policy enactment, every district's goal is to ensure that all students are provided with the resources required to succeed in attaining core mathematical and reading skills, as measured by standardized performance examinations.  Each school and district strives to acheive the goal of a 70% passing rate for every student. This report will support the PyCitySchools District with identifying where district and school teams are not attaining this goal and frame conversations on next steps.
