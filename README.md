@@ -9,7 +9,6 @@ This analysis examines the strengths of the PyCitySchools District and makes str
 While this data provides a powerful analysis examining results by school size, budget per student, and school type (District vs Charter).  Key social, professional staffing, and special education data is not incorporated into this report that would be critical in undertanding the nuances of this data required to make recommendations for improvements. However, this data analysis - as a high level framework, provides sufficient information to allow those additional questions to be contextualized and examined for additional analysis leading to district decisionmaking about strategic resource use.  
 
 
-
 ## Key District Metrics, presented in table format
 
 ![Summary District Data Frame](/District Summary 2.png)
