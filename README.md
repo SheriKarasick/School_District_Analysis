@@ -1,9 +1,7 @@
 # School_District_Analysis
 Prepared for PyCitySchools School District
 By Sharon Karasick
-
-![Add Logo](/PyCityPlay.png)
-<p align="right">
+<p align="float: right">
   <img src="/PyCityPlay.png" width="256" title="Github Logo">
 </p>
 ## Key Metric Summary
