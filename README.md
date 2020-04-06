@@ -62,7 +62,7 @@ The change did not influence the content of the list.
 
 ## School Performance Based on Grade
 
-NEED
+Given the parameters of the change, the 9th grade cohort at Thomas High School will appear as a NaN, other grades at Thomas High School, and all other grades at all other schools will be the same as prior to the data change.
 
 ## School Performance Based on Budget per Student
 * Values changed downward for the bin of schools that containted Thomas High School, as expected.
