@@ -3,6 +3,9 @@ Prepared for PyCitySchools School District
 By Sharon Karasick
 
 ![Add Logo](/PyCityPlay.png)
+<p align="right">
+  <img src="/PyCityPlay.png" width="256" title="Github Logo">
+</p>
 ## Key Metric Summary
 This analysis examines the strengths of the PyCitySchools District and makes strategic recommendations based on key performance data. With the No Child Left Behind policy enactment, every district's goal is to ensure that all students are provided with the resources required to succeed in attaining core mathematical and reading skills, as measured by standardized performance examinations.  Each school and district strives to acheive the goal of a 70% passing rate for every student. This report will support the PyCitySchools District with identifying where district and school teams are not attaining this goal and frame conversations on next steps.
 
@@ -14,10 +17,8 @@ While this data provides a powerful analysis examining results by school size, b
 In this analysis, we examine the analytical consequences of removing a group of 461 freshman students from Thomas High School.  Following concerns that some of the data is suspect, and the extent of the data issue is unknown,  the district would like to know how much exclusion of that data set from the District analysis will influence findings and decisionmaking. 
 
 ![Summary District Data Frame](/district_summary1.png =648x69)
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="648" height="69" title="Github Logo">
-<p align="right">
-  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" title="Github Logo">
-</p>
+<img src="/district_summary1.png" width="648" height="69" title="Github Logo">
+
 
 ![Summary District Data Frame After Removing 9th Grade Students](/district_summary2.png)
 
