@@ -52,7 +52,7 @@ The change influenced the ranking of schools in the District.  Thomas High Schoo
 <img src="/school_top2.png" width="725" title="School Dashboard">
 
 ## Bottom 5 schools (based on overall pass rate)
-The change did not influence the content of the list of 
+The change did not influence the content of the list.
 
 ###### Bottom Five Schools in District
 <img src="/school_bottom1.png" width="725" title="School Dashboard">
@@ -65,6 +65,8 @@ The change did not influence the content of the list of
 NEED
 
 ## School Performance Based on Budget per Student
+* Values changed downward for the bin of schools that containted Thomas High School, as expected.
+
 ###### Performance by Per Student Budget
 <img src="/school_spend1.png" width="725" title="School Dashboard">
 
@@ -72,6 +74,8 @@ NEED
 <img src="/school_spend2.png" width="725" title="School Dashboard">
 
 ## School performace based on size
+* Values changed downward for the size of schools that containted Thomas High School, as expected.
+
 ###### Performance by School Size
 <img src="/school_size1.png" width="725" title="School Dashboard">
 
@@ -79,17 +83,13 @@ NEED
 <img src="/school_size2.png" width="725" title="School Dashboard">
 
 ## School performance based on type of school
+* Values changed downward for the type of schools that containted Thomas High School, as expected.
+
 ###### Performance by School Type
 <img src="/school_type1.png" width="725" title="School Dashboard">
 
 ###### Performance by School Type (Alternative)
 <img src="/school_type2.png" width="725" title="School Dashboard">
-
-## Strengths and Weaknesses of Analysis for Making Strategic Decisions
-
-
-## Notes on data
-
 
 
 ## Resources used
