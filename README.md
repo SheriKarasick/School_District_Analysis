@@ -12,10 +12,13 @@ By Sharon Karasick
   While this data provides a powerful analysis examining results by school size, budget per student, and school type (District vs Charter).  Key social, professional staffing, and special education data is not incorporated into this report that would be critical in undertanding the nuances of this data required to make recommendations for improvements. However, this data analysis - as a high level framework, provides sufficient information to allow those additional questions to be contextualized and examined for additional analysis leading to district decisionmaking about strategic resource use.  
   The most notable findings are highlighted in this table:
 
-District Summary | District Summary (Alternate)
+Category | Reading Scores | Math Scores
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+For Thomas High School | Decreased by 26% | Decreased by 27%,
+Overall Averages | 
+School Size | Medium Category Decreased Significantly | Medium Category Decreased Significantly
+School Type | District Schools Decreased Significantly | District Schools Decreased Significantly
+School by Cost per Student | 3rd Bin Decreased Significantly | 3rd Bin Decreased Significantly
 , 
 
 
