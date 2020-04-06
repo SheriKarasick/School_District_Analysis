@@ -14,6 +14,10 @@ While this data provides a powerful analysis examining results by school size, b
 In this analysis, we examine the analytical consequences of removing a group of 461 freshman students from Thomas High School.  Following concerns that some of the data is suspect, and the extent of the data issue is unknown,  the district would like to know how much exclusion of that data set from the District analysis will influence findings and decisionmaking. 
 
 ![Summary District Data Frame](/district_summary1.png =648x69)
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="648" height="69" title="Github Logo">
+<p align="right">
+  <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" title="Github Logo">
+</p>
 
 ![Summary District Data Frame After Removing 9th Grade Students](/district_summary2.png)
 
